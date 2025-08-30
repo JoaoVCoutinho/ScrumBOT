@@ -36,8 +36,8 @@ Ele ajuda a transformar funcionalidades em User Stories, sugere critérios de ac
 4. **Clone o repositório do GitHub**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/JoaoVCoutinho/ScrumBOT.git
+   cd ScrumBOT
    ```
 
 5. **Crie um ambiente virtual**
@@ -61,5 +61,3 @@ Ele ajuda a transformar funcionalidades em User Stories, sugere critérios de ac
    ```
 
 Agora você já pode interagir com o **ScrumBOT AI** no terminal! 🚀
-
-```
