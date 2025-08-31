@@ -54,7 +54,7 @@ Ele ajuda a transformar funcionalidades em User Stories, sugere critérios de ac
    pip install -r requirements.txt
    ```
 
-7. **Execute a aplicação**
+7. **Execute a aplicação (Atenção, deixe o Ollama aberto)**
 
    ```bash
    python main.py
