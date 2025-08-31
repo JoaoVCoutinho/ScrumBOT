@@ -48,6 +48,19 @@ Ele ajuda a transformar funcionalidades em User Stories, sugere critérios de ac
    chatbot\Scripts\activate      # Windows
    ```
 
+5. **Erros comuns no Windows**
+
+   Ao ativar o ambiente virtual, você pode receber o seguinte erro:
+
+   ```text
+   chatbot\Scripts\activate.ps1 : O arquivo ... não pode ser carregado porque a execução de scripts foi desabilitada neste sistema. Para permitir execução de scripts apenas nesta sessão do PowerShell, rode:
+   ```
+   
+   ```bash
+   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+   chatbot\Scripts\Activate.ps1
+   ```
+
 6. **Instale as dependências**
 
    ```bash
